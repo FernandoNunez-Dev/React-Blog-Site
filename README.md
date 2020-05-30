@@ -35,7 +35,7 @@
 
     
 
-check out a live demo of the project here http://react-google-sticky-notes.surge.sh/
+check out a live demo of the project here http://react-blog-site.surge.sh
 
 <h2 align="center">Features</h2>
 
