@@ -99,20 +99,20 @@ The following tools are recommended for a React project. Also you will find incl
 
 
 
- - _Full Stack Engineer_
+ -  _Full Stack Engineer_
 
- - FernandoNunez-Dev
+    - FernandoNunez-Dev
  
  
- - _Software Utilized_
+ -  _Software Utilized_
   
-  - [Reactjs -16](https://reactjs.org)
-  - [Babel/core](https://www.npmjs.com/package/@babel/core)
-  - [Webpack -4](https://webpack.js.org)
-  - [Material-UI](https://material-ui.com)
-  - [Nodejs -LTS](https://nodejs.org/en)
-  - [ESLint-loader](https://webpack.js.org/loaders/eslint-loader)
-  - [CSS-Tricks](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply)
-  - [Webpack CSS-loaders](https://webpack.js.org/loaders/css-loader/)
-  - [SVG-React-Webpack](https://www.pluralsightcomguides-how-to-load-svg-with-react-and-webpack)
-  - [Bootstrap -Template](https://www.startbootstrap.com )
+    - [Reactjs -16](https://reactjs.org)
+    - [Babel/core](https://www.npmjs.com/package/@babel/core)
+    - [Webpack -4](https://webpack.js.org)
+    - [Material-UI](https://material-ui.com)
+    - [Nodejs -LTS](https://nodejs.org/en)
+    - [ESLint-loader](https://webpack.js.org/loaders/eslint-loader)
+    - [CSS-Tricks](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply)
+    - [Webpack CSS-loaders](https://webpack.js.org/loaders/css-loader/)
+    - [SVG-React-Webpack](https://www.pluralsightcomguides-how-to-load-svg-with-react-and-webpack)
+    - [Bootstrap -Template](https://www.startbootstrap.com )
